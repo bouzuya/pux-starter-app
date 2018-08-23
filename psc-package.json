@@ -1,0 +1,13 @@
+{
+  "name": "my-awesome-pux-app",
+  "set": "psc-0.12.0-20180819",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "aff",
+    "affjax",
+    "css",
+    "prelude",
+    "psci-support",
+    "pux"
+  ]
+}
